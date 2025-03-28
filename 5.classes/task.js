@@ -165,3 +165,6 @@ class PrintEditionItem {
   // Добавляем восстановленную книгу в библиотеку
   library.addBook(givenBook);
   console.log("Количество книг в библиотеке:", library.books.length); 
+
+
+  
